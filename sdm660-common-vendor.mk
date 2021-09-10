@@ -62,6 +62,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sdm660-common/proprietary/system/lib/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM)/lib/fm_helium.so \
     vendor/motorola/sdm660-common/proprietary/system/lib/libfm-hci.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libfm-hci.so \
     vendor/motorola/sdm660-common/proprietary/system/lib64/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/fm_helium.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/libadaptlaunch.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libadaptlaunch.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/libappclassifier.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libappclassifier.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/liblearningmodule.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblearningmodule.so \
+    vendor/motorola/sdm660-common/proprietary/system/lib64/libgameoptfeature.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libgameoptfeature.so \
     vendor/motorola/sdm660-common/proprietary/system/lib64/libfm-hci.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfm-hci.so \
     vendor/motorola/sdm660-common/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/motorola/sdm660-common/proprietary/vendor/bin/adpl:$(TARGET_COPY_OUT_VENDOR)/bin/adpl \
