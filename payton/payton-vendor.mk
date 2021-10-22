@@ -530,5 +530,6 @@ PRODUCT_PACKAGES += \
     MotoSignatureApp \
     MotCamera2 \
     ims \
+    datastatusnotification \
     libthermalclient \
     com.motorola.motosignature
